@@ -1,0 +1,3 @@
+/home/mephi/Work/keyloger/build/CMakeFiles/main.dir
+/home/mephi/Work/keyloger/build/CMakeFiles/edit_cache.dir
+/home/mephi/Work/keyloger/build/CMakeFiles/rebuild_cache.dir
